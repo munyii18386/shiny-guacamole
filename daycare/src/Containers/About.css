@@ -1,0 +1,16 @@
+.About .landing {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.About .landing h1 {
+    font-family: "Open Sans", sans-serif;
+    /* font-weight: 600; */
+    color: purple;
+}
+
+.About .landing p {
+    color: #999;
+    font-weight: 400;
+}
+
